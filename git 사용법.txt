@@ -1,0 +1,9 @@
+git 사용법
+-------------------
+설치 및 환경설정
+git 다운로드 후 git bash 열어주기
+git config --global user.name "bo5rcho"
+git config --global user.email "bo5rcho@gmail.com"
+
+정보확인 
+git config --list
